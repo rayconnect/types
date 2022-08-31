@@ -1,0 +1,15 @@
+{
+  "name": "@rayconnect/types",
+  "version": "0.0.0",
+  "description": "Rayconnect all typescript type interfaces",
+  "main": "index.js",
+  "keywords": [
+    "rayconnect",
+    "0tasad"
+  ],
+  "author": {
+    "name": "0tasad",
+    "email": "middle-end+rayconnect@0tasad.studio"
+  },
+  "license": "SEE LICENSE IN LICENSE.md"
+}
